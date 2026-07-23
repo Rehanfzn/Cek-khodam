@@ -10,13 +10,13 @@
 <body class="min-h-screen bg-[#070a07] text-[#e8e0d0] font-sans overflow-x-hidden">
     <!-- Navbar -->
     <nav id="navbar" class="fixed top-0 left-0 right-0 z-30 flex items-center justify-between h-14 px-4 sm:px-6 bg-[#0a0f0a]/80 backdrop-blur-2xl shadow-[0_4px_30px_rgba(0,0,0,0.5)] before:content-[''] before:absolute before:inset-0 before:bg-gradient-to-r before:from-[#d4a843]/[0.02] before:via-transparent before:to-[#2d5a27]/[0.02] before:pointer-events-none">
-        <a href="/" class="flex items-center gap-2.5 shrink-0">
+        <a href="/cek-khodam" class="flex items-center gap-2.5 shrink-0">
             <span class="text-[#d4a843] text-xl leading-none">ꦕꦺꦏ꧀​ꦏꦺꦴꦝꦩ꧀</span>
             <span class="text-[11px] text-[#d4a843]/50 tracking-[0.15em] uppercase font-light hidden sm:inline">Cek Khodam</span>
         </a>
 
         <div class="flex items-center gap-1">
-            <a href="/" class="relative px-4 py-1.5 rounded-xl text-xs font-light tracking-wider text-[#d4a843]/80 hover:text-[#d4a843] hover:bg-[#d4a843]/[0.04] transition-all duration-300">Khodam</a>
+            <a href="/cek-khodam" class="relative px-4 py-1.5 rounded-xl text-xs font-light tracking-wider text-[#d4a843]/80 hover:text-[#d4a843] hover:bg-[#d4a843]/[0.04] transition-all duration-300">Khodam</a>
             <a href="/jodoh" class="relative px-4 py-1.5 rounded-xl text-xs font-light tracking-wider text-[#d4a843]/80 hover:text-[#d4a843] hover:bg-[#d4a843]/[0.04] transition-all duration-300">Jodoh</a>
             <a href="/weton" class="relative px-4 py-1.5 rounded-xl text-xs font-light tracking-wider text-[#d4a843]/80 hover:text-[#d4a843] hover:bg-[#d4a843]/[0.04] transition-all duration-300">Weton</a>
             <a href="/tentang" class="relative px-4 py-1.5 rounded-xl text-xs font-light tracking-wider text-[#d4a843]/80 bg-[#d4a843]/[0.04]">Tentang</a>
